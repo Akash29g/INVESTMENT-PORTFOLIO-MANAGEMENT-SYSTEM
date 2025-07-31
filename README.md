@@ -25,28 +25,8 @@ A SQL-based DBMS project to manage investment portfolios including stocks, mutua
 
 ---
 
-## 🛠️ How to Use
-
-1. Clone this repository.
-2. Run the provided SQL scripts in any SQL-compatible environment.
-3. Insert sample data or create your own records.
-4. Execute the analysis queries to track portfolio performance.
-
----
-
 ## 📄 Authors
 
 - **Akash Goswami** – 23CSB0F14  
 - **Suhaas Karthikeyan** – 23CSB0F11
 
----
-
-## 📷 Preview (Optional)
-
-> Include ER diagram or schema images here if available (e.g., `/images/er_model.png`)
-
----
-
-## 📜 License
-
-This project is for academic/demo purposes only.
