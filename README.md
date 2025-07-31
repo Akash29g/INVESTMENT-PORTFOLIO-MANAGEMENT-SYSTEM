@@ -1,35 +1,52 @@
-# INVESTMENT-PORTFOLIO-MANAGEMENT-SYSTEM
-An SQL-based DBMS project to manage user investment portfolios across stocks, mutual funds, fixed deposits, and government bonds. Includes support for transactions, SIPs, ROI calculations, and FIFO-based stock tracking. Fully normalized to BCNF and 3NF.
+# 📊 Investment Portfolio Management System
 
+A SQL-based DBMS project to manage investment portfolios including stocks, mutual funds, fixed deposits, and government bonds. It supports portfolio tracking, SIP management, ROI calculation, and FIFO-based stock transactions. Fully normalized to BCNF and 3NF.
 
-📁 Features
-Multi-user portfolio support (via PAN ID)
+---
 
-Stock buy/sell with FIFO-based quantity tracking
+## 🚀 Features
 
-Mutual funds with SIPs and NAV updates
+- 👤 Multi-user support (identified via PAN ID)
+- 💼 Portfolio management with multiple asset types
+- 📈 Stock buy/sell tracking with FIFO mechanism
+- 💹 Mutual funds with SIP and NAV updates
+- 🏦 Fixed deposits and government bond management
+- 📊 ROI and net gain calculations
+- 🔍 Advanced SQL queries for investment insights
 
-Fixed deposits and government bond ROI tracking
+---
 
-Complex SQL queries for portfolio analysis
+## 🧱 Tech Stack
 
-🧱 Tech Stack
-Database: SQLite / SQL
+- **Database**: SQL (SQLite / MySQL-compatible syntax)
+- **Schema Design**: EER Model, ER to Relational Mapping
+- **Normalization**: 3NF and BCNF
+- **Language**: SQL
 
-Design: EER Diagram, ER-to-Relational Mapping
+---
 
-Normalization: Up to BCNF
+## 🛠️ How to Use
 
-🛠️ How to Use
-Import the schema using the provided SQL scripts.
+1. Clone this repository.
+2. Run the provided SQL scripts in any SQL-compatible environment.
+3. Insert sample data or create your own records.
+4. Execute the analysis queries to track portfolio performance.
 
-Insert sample data or run your own queries.
+---
 
-Use complex queries to analyze investments and returns.
+## 📄 Authors
 
-📄 Authors
-Akash Goswami – 23CSB0F14
+- **Akash Goswami** – 23CSB0F14  
+- **Suhaas Karthikeyan** – 23CSB0F11
 
-Suhaas Karthikeyan – 23CSB0F11
+---
 
+## 📷 Preview (Optional)
 
+> Include ER diagram or schema images here if available (e.g., `/images/er_model.png`)
+
+---
+
+## 📜 License
+
+This project is for academic/demo purposes only.
