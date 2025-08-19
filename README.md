@@ -20,7 +20,6 @@ A SQL-based Database Management System to manage investment portfolios including
 - **Database**: SQL (SQLite / MySQL-compatible syntax)
 - **Schema Design**: EER Model, ER to Relational Mapping
 - **Normalization**: 3NF and BCNF
-- **Language**: SQL
 
 ---
 
